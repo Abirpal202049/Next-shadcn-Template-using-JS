@@ -40,7 +40,7 @@ export default function Home() {
             attribution required.
             <br />
             <br />
-            But hey, let me know if you do. I'd love to see what you build.
+            But hey, let me know if you do. I&apos;d love to see what you build.
           </AccordionContent>
         </AccordionItem>
       </Accordion>
