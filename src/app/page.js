@@ -20,7 +20,7 @@ export default function Home() {
         <AccordionItem value="item-1">
           <AccordionTrigger>What us shadcn/ui ?</AccordionTrigger>
           <AccordionContent>
-            It's a collection of re-usable components built using Radix UI and
+            It&apos;s a collection of re-usable components built using Radix UI and
             Tailwind CSS that you can copy and paste into your apps to make your
             ideas into reality.
           </AccordionContent>
